@@ -1,4 +1,4 @@
-# kivy-pingPong_Game
+# kivy-pingPong_Game [![Build Status][]](https://travis-ci.org/oncletom/webextension-fip) ![][rating badge] ![][downloads badge] ![][version badge]
 > Ping Pong Game App is here
 <img src="https://github.com/triyam/kivy-pingPong_Game/blob/main/pong.jpg" width="500" height="400">
 <hr>
