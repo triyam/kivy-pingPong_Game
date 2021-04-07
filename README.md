@@ -2,7 +2,7 @@
 <h3>Ping Pong Game App is here</h3>
 <img src="https://github.com/triyam/kivy-pingPong_Game/blob/main/pong.jpg" width="500" height="400">
 <hr>
-But you have to download kivy and subsequent libraries starting with virtual environment which is strongly recommended:
+## But you have to download kivy and subsequent libraries starting with virtual environment which is strongly recommended:
     
     # For windows users
     python -m virtualenv kivy_venv
@@ -14,7 +14,7 @@ But you have to download kivy and subsequent libraries starting with virtual env
     kivy_venv\Scripts\activate
     source kivy_venv/bin/activate
     
-For kivy:
+## For kivy:
 
     python -m pip install kivy[master] kivy_examples
     # or
@@ -22,12 +22,12 @@ For kivy:
     or 
     pip3 install kivy[master] kivy_examples
     
-For Building it to android, ios, or windows, you must have linux system:
+## For Building it to android, ios, or windows, you must have linux system:
 
     pip install buildozer
     buildozer init
  
-Make changes in spec file:
+## Make changes in spec file:
 
     # (str) Title of your application
     title = KvPong
@@ -38,11 +38,11 @@ Make changes in spec file:
     # (str) Package domain (needed for android/ios packaging)
     package.domain = org.kvpong
  
-For android:
+## For android:
 
     buildozer -v android build debug deploy
 
-For iOS:
+## For iOS:
     
     brew install autoconf automake libtool pkg-config
     brew link libtool
@@ -58,12 +58,12 @@ For iOS:
     
     ./toolchain.py create <title> <app_directory>
     
-For Windows:
+## For Windows:
     
     pip install pyinstaller
     pyinstaller main.py -w
     
-For macOS:
+## For macOS:
 
     pyinstaller main.py -w --onefile
 <hr>
