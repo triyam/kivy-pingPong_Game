@@ -1,4 +1,4 @@
-# kivy-pingPong_Game 
+# kivy-pingPong_Game [Triyambaka Mishra](mailto:triyambakam2@gmail.com?subject=[GitHub] Source Han Sans)
 > Ping Pong Game App is here
 <img src="https://github.com/triyam/kivy-pingPong_Game/blob/main/pong.jpg" width="500" height="400">
 <hr>
