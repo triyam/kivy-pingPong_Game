@@ -1,4 +1,4 @@
-# kivy-pingPong_Game [![Build Status](https://github.com/triyam/kivy-pingPong_Game)](https://github.com/triyam)
+# kivy-pingPong_Game 
 > Ping Pong Game App is here
 <img src="https://github.com/triyam/kivy-pingPong_Game/blob/main/pong.jpg" width="500" height="400">
 <hr>
