@@ -69,7 +69,7 @@
 
     pyinstaller main.py -w --onefile
 <hr>
-<h5>If still any problem exist you can mail to me at <a href="mailto=triyambakam2@gmail.com">triyambakam2@gmail.com</a></h5>
+<h5>If still any problem exist you can mail to me at <a href="mailto:triyambakam2@gmail.com">triyambakam2@gmail.com</a></h5>
 <h6>Thanks For Visiting</h6>
 
 
