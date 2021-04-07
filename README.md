@@ -20,7 +20,7 @@
     python -m pip install kivy[master] kivy_examples
     # or
     pip install kivy[master] kivy_examples
-    or 
+    # or 
     pip3 install kivy[master] kivy_examples
     
 ## For Building it to android, ios, or windows, you must have linux system:
