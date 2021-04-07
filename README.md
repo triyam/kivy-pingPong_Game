@@ -2,6 +2,7 @@
 <h3>Ping Pong Game App is here</h3>
 <img src="https://github.com/triyam/kivy-pingPong_Game/blob/main/pong.jpg" width="500" height="400">
 <hr>
+
 ## But you have to download kivy and subsequent libraries starting with virtual environment which is strongly recommended:
     
     # For windows users
